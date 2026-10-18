@@ -23,3 +23,7 @@ The model is currently a digital design.
 ## Notes
 
 The file will not have editable sketches as it was created by importing an exported glb file from Blender into FreeCAD.
+
+## Desk Lamp Render
+
+![Desk Lamp Render](images/render.png)
